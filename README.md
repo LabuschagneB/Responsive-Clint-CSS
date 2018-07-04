@@ -1,2 +1,3 @@
-# Responsive-Clint-CSS
-Responsive Normalize CSS
+# Tiny-Responsive-Clint-CSS
+Tiny Responsive Normalize CSS
+
